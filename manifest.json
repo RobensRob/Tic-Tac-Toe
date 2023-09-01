@@ -1,0 +1,10 @@
+{
+    "name": "Tic Tac Toe",
+    "short_name": "TTT",
+    "theme_color": "#00ff00",
+    "background-color": "#343434",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
